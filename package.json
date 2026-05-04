@@ -1,1 +1,0 @@
-{\n  \"name\": \"your-project-name\",\n  \"version\": \"1.0.0\",\n  \"private\": true,\n  \"dependencies\": {\n    \"react\": \"^17.0.1\",\n    \"react-native\": \"^0.64.2\",\n    \"expo\": \"^42.0.0\"\n  },\n  \"devDependencies\": {\n    \"typescript\": \"^4.2.3\"\n  }\n}
