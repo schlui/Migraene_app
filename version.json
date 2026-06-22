@@ -1,0 +1,10 @@
+{
+  "android": {
+    "version": "1.0.4",
+    "url": "https://github.com/schlui/Migraene_app/releases/download/v.1.0.4/app-release.apk"
+  },
+  "ios": {
+    "version": "1.0.0",
+    "url": "https://apps.apple.com/app/id6766105069"
+  }
+}
